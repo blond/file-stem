@@ -38,18 +38,10 @@ stem('index.html');    // ➜ index
 stem('build.tar.gz');  // ➜ build.tar
 ```
 
-API
----
+Related
+-------
 
-### stem(path)
-
-Returns basename without extension.
-
-### path
-
-Type: `string`
-
-The path to file or directory.
+* [file-suffix](https://github.com/blond/file-suffix)
 
 License
 -------
