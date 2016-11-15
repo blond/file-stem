@@ -1,6 +1,6 @@
 {
   "name": "file-stem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Basename without extension",
   "license": "MIT",
   "repository": "blond/file-stem",
