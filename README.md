@@ -5,7 +5,6 @@ file-stem
 [![Travis Status][test-img]][travis]
 [![Windows Status][appveyor-img]][appveyor]
 [![Coverage Status][coverage-img]][coveralls]
-[![Dependency Status][david-img]][david]
 
 [npm]:          https://www.npmjs.org/package/file-stem
 [npm-img]:      https://img.shields.io/npm/v/file-stem.svg
@@ -18,9 +17,6 @@ file-stem
 
 [coveralls]:    https://coveralls.io/r/blond/file-stem
 [coverage-img]: https://img.shields.io/coveralls/blond/file-stem.svg
-
-[david]:        https://david-dm.org/blond/file-stem
-[david-img]:    http://img.shields.io/david/blond/file-stem.svg?style=flat
 
 Filename without suffix.
 
