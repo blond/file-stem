@@ -18,7 +18,7 @@ file-stem
 [coveralls]:    https://coveralls.io/r/blond/file-stem
 [coverage-img]: https://img.shields.io/coveralls/blond/file-stem.svg
 
-Filename without suffix.
+Basename without extension.
 
 Install
 -------
@@ -43,7 +43,7 @@ API
 
 ### stem(path)
 
-Returns filename without suffix.
+Returns basename without extension.
 
 ### path
 

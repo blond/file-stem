@@ -1,7 +1,7 @@
 {
   "name": "file-stem",
   "version": "1.0.1",
-  "description": "Filename without suffix",
+  "description": "Basename without extension",
   "license": "MIT",
   "repository": "blond/file-stem",
   "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
