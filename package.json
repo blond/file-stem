@@ -1,0 +1,40 @@
+{
+  "name": "file-stem",
+  "version": "0.0.0",
+  "description": "Filename without suffix.",
+  "license": "MIT",
+  "repository": "blond/file-stem",
+  "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
+  "keywords": [
+    "file",
+    "path",
+    "stem",
+    "name",
+    "without",
+    "suffix",
+    "extname",
+    "ext",
+    "extension"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "coveralls": "^2.11.15",
+    "eslint": "^3.10.0",
+    "eslint-config-pedant": "^0.8.0",
+    "nyc": "^9.0.1"
+  },
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "nyc ava",
+    "unit-test": "ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  }
+}
