@@ -4,19 +4,19 @@ file-stem
 [![NPM Status][npm-img]][npm]
 [![Travis Status][test-img]][travis]
 [![Windows Status][appveyor-img]][appveyor]
-[![Coverage Status][coverage-img]][coveralls]
+[![Coverage Status][coveralls-img]][coveralls]
 
-[npm]:          https://www.npmjs.org/package/file-stem
-[npm-img]:      https://img.shields.io/npm/v/file-stem.svg
+[npm]:           https://www.npmjs.org/package/file-stem
+[npm-img]:       https://img.shields.io/npm/v/file-stem.svg
 
-[travis]:       https://travis-ci.org/blond/file-stem
-[test-img]:     https://img.shields.io/travis/blond/file-stem.svg?label=tests
+[travis]:        https://travis-ci.org/blond/file-stem
+[test-img]:      https://img.shields.io/travis/blond/file-stem/master.svg?label=tests
 
-[appveyor]:     https://ci.appveyor.com/project/blond/file-stem
-[appveyor-img]: http://img.shields.io/appveyor/ci/blond/file-stem.svg?style=flat&label=windows
+[appveyor]:      https://ci.appveyor.com/project/blond/file-stem
+[appveyor-img]:  http://img.shields.io/appveyor/ci/blond/file-stem/master.svg?style=flat&label=windows
 
-[coveralls]:    https://coveralls.io/r/blond/file-stem
-[coverage-img]: https://img.shields.io/coveralls/blond/file-stem.svg
+[coveralls]:     https://coveralls.io/r/blond/file-stem
+[coveralls-img]: https://img.shields.io/coveralls/blond/file-stem/master.svg
 
 Basename without extension.
 
